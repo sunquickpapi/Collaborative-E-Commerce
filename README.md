@@ -2,7 +2,10 @@
 
 A multi-role e-commerce platform for ordering custom jerseys. Customers design and order, designers produce the artwork, agents handle orders and communication, and admins run the store, all in one system.
 
-<img width="1710" height="981" alt="image" src="https://github.com/user-attachments/assets/97febec9-5c90-44f1-91c9-cacfa3e99e07" />
+<img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/4871a372-d98d-41c1-ae59-8a614331520b" /> <img width="1160" height="667" alt="image" src="https://github.com/user-attachments/assets/e725e868-9448-40ea-868f-dcb52115cecd" />
+<img width="1168" height="668" alt="image" src="https://github.com/user-attachments/assets/0c592311-661f-4691-9754-8a99a46b00e0" /> <img width="1172" height="674" alt="image" src="https://github.com/user-attachments/assets/5c29dd6c-745d-40c3-b93f-ffa157d6bbd9" />
+
+
 
 
 ## Roles
